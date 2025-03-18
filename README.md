@@ -1,4 +1,4 @@
-## Hi, I'm Muzammal! 👋  
+## Hi, I'm Shakeel Ahmad! 👋  
 🚀 Full-Stack Developer | Django | React | Web Dev  
 
 ### 🚀 About Me  
