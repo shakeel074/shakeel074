@@ -1,12 +1,12 @@
-## Hi, I'm Shakeel Ahmad! 👋  
-🚀 Full-Stack Developer | Django | React | Web Dev  
+## Hi, I'm Shakeel Ahmad!
+Full-Stack Developer | Django | React | Web Dev  
 
-### 🚀 About Me  
-- 🔭 Working as a Frontend Developer at Microsouls  
-- 🌱 Learning Django & React for full-stack development  
-- 💡 Passionate about AI-driven web apps  
+##About Me  
+- Working as a Frontend Developer at Microsouls  
+- Learning Django & React for full-stack development  
+- Passionate about AI-driven web apps  
 
-### 💻 Tech Stack  
+### Tech Stack  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,7 +16,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shakeel074&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/shakeel074?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/shakeel074?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/shakeel074?style=social)  
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
