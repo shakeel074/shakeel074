@@ -17,3 +17,6 @@ Full-Stack Developer | Django | React | Web Dev
 ![GitHub Followers](https://img.shields.io/github/followers/shakeel074?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/shakeel074?style=social)  
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakeel074&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel074&layout=compact&theme=dark)  
